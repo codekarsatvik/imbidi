@@ -1,0 +1,40 @@
+.card{
+  border-radius: 30px;
+  text-align: center;
+  margin: auto;
+  width: 70%;
+  display: inline-flex;
+  margin-bottom: : 20px;
+
+
+}
+.card-img-top{
+  max-height: 100%;
+}
+#movies{
+  margin: auto;
+  text-align: center;
+}
+#movies img, #movie img{
+  width:100%;
+}
+
+@media(min-width:960px){
+  #movies .col-md-2 .well{
+    height: 390px;
+  }
+
+  #movies .col-md-2 img{
+    height:240px;
+  }
+}
+
+.list-group-item{
+  width: 100%;
+}
+
+#myModal{
+  margin: auto;
+  text-align: center;
+  
+}
