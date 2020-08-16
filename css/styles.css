@@ -10,6 +10,7 @@
 }
 .card-img-top{
   max-height: 100%;
+  border-radius: 30px;
 }
 #movies{
   margin: auto;
@@ -36,5 +37,5 @@
 #myModal{
   margin: auto;
   text-align: center;
-  
+
 }
